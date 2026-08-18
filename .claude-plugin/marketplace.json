@@ -1,0 +1,9 @@
+{
+  "name": "plugin-skills",
+  "owner": {
+    "name": "David Cañón",
+    "url": "https://github.com/DavidCanon07"
+  },
+  "description": "Personal catalog of Claude Code plugins and standalone skills, synced across machines.",
+  "plugins": []
+}
